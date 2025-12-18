@@ -1,14 +1,14 @@
 :root {
-  --bg-color: #f4b2e0;
-  --text-color: #222;
+  --bg-color: #b2e0f4;
+  --text-color:#000080;
   --card-bg: #ffffff;
   --accent: #42034a;
 }
 
 /* Dark Mode */
 body.dark {
-  --bg-color: #390132;
-  --text-color: #e9aaf4;
+  --bg-color: #1e3a8a;
+  --text-color: #b2e0f4;
   --card-bg: #1e1e1e;
 }
 
@@ -134,3 +134,4 @@ button:hover {
     font-size: 1.4rem;
   }
 }
+
